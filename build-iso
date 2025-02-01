@@ -1,0 +1,2 @@
+#!/bin/bash
+make build-x86_64
